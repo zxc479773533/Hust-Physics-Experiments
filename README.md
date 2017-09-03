@@ -7,3 +7,7 @@
 ```
 python hust_physics.py username password startweek endweek
 ```
+
+效果示例：
+
+![](/picture.png)
