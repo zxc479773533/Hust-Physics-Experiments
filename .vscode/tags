@@ -1,0 +1,13 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.8	//
+BeautifulSoup	../hust_physics.py	/^from bs4 import BeautifulSoup$/;"	kind:namespace	line:2
+browser	../hust_physics.py	/^browser = webdriver.PhantomJS(executable_path="phantomjs")$/;"	kind:variable	line:6
+getPhysicsExperimentInfo	../hust_physics.py	/^def getPhysicsExperimentInfo(name, passwd, first, end):$/;"	kind:function	line:9
+hust_physics.py	../hust_physics.py	1;"	kind:file	line:1
+sys	../hust_physics.py	/^import sys$/;"	kind:namespace	line:1
+time	../hust_physics.py	/^import time$/;"	kind:namespace	line:4
+webdriver	../hust_physics.py	/^from selenium import webdriver$/;"	kind:namespace	line:3

@@ -9,7 +9,7 @@ browser.maximize_window()
 def getPhysicsExperimentInfo(name, passwd, first, end):
     Week = ['周一','周二','周三','周四','周五','周六','周日']
     Day = ['上午','#','下午','晚上']
-    browser.get("http://115.156.233.249/login.asp")
+    browser.get("http://115.156.215.251/login.asp")
     time.sleep(0.5)
 
     try:
